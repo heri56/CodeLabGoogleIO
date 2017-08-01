@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Code Lab Google I/O</string>
+    <string name="apptext">Hello</string>
+    <string name="app_name_scrolling_view_behavior">Puyeng</string>
+
+    <string-array name="bahasa">
+        <item>Indonesia</item>
+        <item>Inggris</item>
+        <item>Belanda</item>
+        <item>Rusia</item>
+        <item>Belgia</item>
+    </string-array>
+</resources>
